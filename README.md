@@ -19,7 +19,6 @@ Zoom Manager
 
 ## Media
 
-https://github.com/Forbidi/Eternal-Return/assets/29312029/6763e5ea-6a79-4c42-8e9d-5059cfdaaf2f
 
 ## Discord
 
